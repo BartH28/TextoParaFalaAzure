@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugklhVRIVee0Tai9Ev04B5WnGUcoF1VRUun5JTf8qVaxmrcFVTHFugDNb/1YwQ0RilrBfaBp61FD7437k9vsJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\50742583830\\Documents\\Serviços Cognitivos\\TextoParaFala\\TextoParaFala\\TextoParaFala.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\50742583830\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
